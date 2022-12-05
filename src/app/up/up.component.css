@@ -1,0 +1,35 @@
+
+#container1{
+    
+    background: -webkit-linear-gradient(#87cefa,	#153652);
+}
+#row2{
+    height: 70px;
+}
+@media only screen and (max-width: 365px) {
+    #im1,#im2 {
+       height: 30px;
+       width: 30px;
+    }
+   
+  }
+#dropdownMenuLink{
+width: 95%;
+height: 50px;
+background-color: white;
+color:#153652;
+font-family:sans-serif;
+
+}
+#dropdownMenuLink2{
+    width: 95%;
+    background-color:lightskyblue;
+}
+.dropdown-item:hover{
+    background-color: #153652;
+    color: white;
+}
+.dropdown-item{
+    color: #153652;
+    font-family:sans-serif;
+}

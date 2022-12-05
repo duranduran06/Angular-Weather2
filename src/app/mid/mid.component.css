@@ -1,0 +1,78 @@
+#cityrow{
+    color:#153652;
+    font-size: 24px;
+ }
+ .rectangle{
+     border:1px solid #87cefa ;
+     width: 150px;
+     height: 180px;
+     margin-left: 15px;
+     border-radius: 10px;
+     margin-bottom: 50px;
+ }
+ @media only screen and (max-width: 575px) {
+     .rectangle {
+        height:230px;
+     }
+    
+   }
+   
+ 
+ #day{
+     color:#153652;
+   
+ }
+ #dayimage
+ {
+     background-color: #153652;
+ }
+ #daydegree{
+     color: #153652;
+ }
+ #daystate{
+     color: #153652;
+     font-family: sans-serif;
+ }
+         
+ .rectangle2{
+     border: 1px solid rgba(21,54,82, 0.1);  
+ }
+ #info{
+    font-weight: bold;
+     color: #153652;
+     font-family: sans-serif;font-size: 15px;
+ 
+ }
+ #info:hover{
+     background-color:rgba(57, 192, 237, 0.1);
+ }
+ #infoyellow{
+     font-weight: bold;
+     color: #FFA600;
+     font-family: sans-serif;font-size: 15px;
+     
+ }
+ #scroll{
+     height: 420px;
+     overflow: auto;
+ }
+ #radius{
+     border-radius: 25px;
+     float: left;
+     margin-right: 15px;
+ }
+ #twithead{
+     font-size: 20px;  
+     font-family: sans-serif;
+ }
+ #twitbody{
+     font-size:10px;
+     font-family: sans-serif;
+ }
+ #twit{
+     font-size: 13px;
+     font-family: sans-serif;
+ }
+ #link{
+ color:#000000;
+ }
